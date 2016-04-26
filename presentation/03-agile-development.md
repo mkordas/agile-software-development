@@ -8,4 +8,16 @@ Meaning of **adjective** "agile":
 - avoid waste, preserve energy
 - capable of following moving target
 
+#### Methodology?
 
+Agile is not necessarily a methodology...
+
+Agile is more a framework or frame of mind.
+
+Real processes and methodologies (methods):
+- XP (Etreme Programming)
+- Scrum
+- FDD (Feature Driven Development)
+- DSDM (Dynamic Systems Development)
+- Adaptive Software Development
+- RUP (Rational Unified Process)
