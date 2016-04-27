@@ -32,7 +32,7 @@ To start a day or not?
 Red flags
 - no focus on story progress
 - reporting to leader
-- people beign late
+- people begin late
 - starts a day too late
 - don't remember
   - walking the board
