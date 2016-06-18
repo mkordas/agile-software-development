@@ -15,7 +15,7 @@ Agile is not necessarily a methodology...
 Agile is more a framework or frame of mind.
 
 Real processes and methodologies (methods):
-- XP (Etreme Programming)
+- XP (Extreme Programming)
 - Scrum
 - FDD (Feature Driven Development)
 - DSDM (Dynamic Systems Development)

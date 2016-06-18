@@ -9,7 +9,7 @@
 
 Agile BA:
 - Communication
-- Roadmap
+- Road map
 - Team on course
 
 > Agility is the ability to both create and respond to change in order to profit
