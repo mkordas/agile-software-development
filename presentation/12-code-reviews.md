@@ -67,6 +67,7 @@
  * what hapens if...
  * did you think of that
 * OK to disagree or argue
+* never compromise
 * there are many ways to solve problems
  * do not argue to solve everything your way
  * reject if doesn't meet quality standards
