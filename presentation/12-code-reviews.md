@@ -71,7 +71,7 @@
  * did you consider...
  * what hapens if...
  * did you think of that
-* OK to disagree or argue
+* it's OK to disagree or argue
 * never compromise
 * there are many ways to solve problems
  * do not argue to solve everything your way
