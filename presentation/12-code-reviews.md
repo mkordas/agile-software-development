@@ -2,7 +2,8 @@
 
 * Should be mandatory
 * Test whether code can be understood just by reading
-* Takes anytime between 3 minutes and 3 hours
+* May take anytime between 3 minutes and 3 hours
+ * it's normal that some reviews take huge amount of time
 
 ![](https://cdn.meme.am/instances/500x/63499131.jpg)
 
