@@ -80,7 +80,12 @@
  * author can start fixing code without being distracted with new comments
  * `on it` comment when starting
  * `see my comments` when done
- 
+* make clear what type of comment it is
+ * important issue/question that needs to be answered
+ * minor style comment
+ * suggestion for next time
+ * subjective opinion while being fine with the current code
+
 ![](http://www.thailandqa.com/forum/attachment.php?attachmentid=19238&d=1378108562)
 
 ### Receiving feedback
