@@ -52,6 +52,8 @@
 * document PR
 * add meaningful commit messages
 
+![](http://s2.quickmeme.com/img/0e/0ee676a657e4f108f1ff2c9a48d35b78823c2d8b9268922d6f5ace8fed9679fe.jpg)
+
 ### Aspects
 
 * simplicity
