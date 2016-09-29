@@ -76,7 +76,11 @@
 * there are many ways to solve problems
  * do not argue to solve everything your way
  * reject if doesn't meet quality standards
-
+* try to provide full feedback in one go in timely manner
+ * author can start fixing code without being distracted with new comments
+ * `on it` comment when starting
+ * `see my comments` when done
+ 
 ![](http://www.thailandqa.com/forum/attachment.php?attachmentid=19238&d=1378108562)
 
 ### Receiving feedback
