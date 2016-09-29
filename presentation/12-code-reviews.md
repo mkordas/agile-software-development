@@ -36,6 +36,8 @@
 
 * feedback skills
  * code is personal, there is always person behind it
+ 
+![](https://davidwalsh.name/demo/code-review-2.jpg)
 
 ### How many
 
