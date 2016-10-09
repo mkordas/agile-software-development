@@ -50,6 +50,7 @@
 ### Contents
 
 * small changes
+![](https://pbs.twimg.com/media/CIXISVyWIAAfe8U.jpg)
 * features, bugfixes, refactorings should not be mixed
 * document PR
 * add meaningful commit messages
@@ -117,3 +118,5 @@
 * https://github.com/kubernetes/kubernetes/pull/33262
 * https://github.com/apache/spark/pull/15090
 * https://github.com/checkstyle/checkstyle/pull/2177
+
+![](http://img.memecdn.com/How-To-Make-A-Good-Code-Review_o_49060.jpg)
