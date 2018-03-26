@@ -1,7 +1,8 @@
 # Business Analyst in Agile
 
 | BA                 | Agile BA            |
-|-Separate team------|-Dev team------------|
+|--------------------|---------------------|
+|**Separate team**   |**Dev team**         |
 | Heavy requirements | User stories        |
 | Completeness       | Understanding       |
 | Sign-off           | Real business needs |
